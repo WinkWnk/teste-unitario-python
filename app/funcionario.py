@@ -27,3 +27,4 @@ class Funcionario:
     def calcularBonus(self):
         bonus = self.salario * 0.1 #calculando 10% do salário
         return bonus
+    
